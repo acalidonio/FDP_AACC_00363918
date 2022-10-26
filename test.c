@@ -3,7 +3,7 @@
 
 int main()
 {
-    char *str = "https://www.sina.com.cn/";
+    char *str = "https://www.test.com";
     char *substr = "www";
 	
 	char *substr2 = "adb";
