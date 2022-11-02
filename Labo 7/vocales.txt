@@ -1,0 +1,22 @@
+
+
+La palabra animal contiene: 
+2 letra(s) a
+0 letra(s) e
+1 letra(s) i
+0 letra(s) o
+0 letra(s) u
+
+La palabra palito contiene: 
+1 letra(s) a
+0 letra(s) e
+1 letra(s) i
+1 letra(s) o
+0 letra(s) u
+
+La palabra mundanamente contiene: 
+2 letra(s) a
+2 letra(s) e
+0 letra(s) i
+0 letra(s) o
+1 letra(s) u
