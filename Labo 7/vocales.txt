@@ -20,3 +20,10 @@ La palabra mundanamente contiene:
 0 letra(s) i
 0 letra(s) o
 1 letra(s) u
+
+La palabra astringente contiene: 
+1 letra(s) a
+2 letra(s) e
+1 letra(s) i
+0 letra(s) o
+0 letra(s) u
